@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 🌱 I’m always learning new technologies and improving my skills.
 - 💬 Ask me about software development, coding practices, and any tech-related topics.
 - 📫 How to reach me: [Email](mailto:leimportant@gmail.com)
-- ⚡ Fun fact: I love solving complex problems and participating in hackathons.
+- ⚡ Fun fact: I love solving complex problems and I’m also learning 1C Low-Code/No-Code for Developers in 1C:Enterprise.
 
 ## GitHub Stats
 
