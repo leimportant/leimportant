@@ -11,8 +11,13 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - ⚡ Fun fact: I love solving complex problems and I’m also learning 1C Low-Code/No-Code for Developers in 1C:Enterprise.
 
 ## GitHub Stats
+## 📊 My GitHub Stats
 
-![leimportant's GitHub stats](https://github-readme-stats.vercel.app/api?username=leimportant&show_icons=true&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leimportant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ## Connect with Me
 
