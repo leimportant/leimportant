@@ -23,6 +23,16 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - Built a **chatbot prototype** using LLM APIs to automate internal queries and workflows.  
 - Currently participating in **Accelate with Meta Llama 2025**, exploring advanced use cases of Large Language Models (LLMs).  
 
+## 🤖 AI & Chatbot Projects
+
+- [Konveksi Starter](https://github.com/leimportant/konveksi-starter)  
+  AI-powered solution developed for **Accelate with Meta Llama 2025** competition.  
+  Tech stack: Laravel (PHP), Node.js, npm, Composer.  
+
+- [Aninka Fashion Chatbot](https://github.com/leimportant/aninkafashion)  
+  AI-powered chatbot prototype for customer interaction and workflow automation.  
+  Tech stack: Laravel (PHP), Node.js, AI API Integration.  
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/leimportant)
