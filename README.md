@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 </div>
 
+## 🤖 AI & Chatbot Projects
+- Built a **chatbot prototype** using LLM APIs to automate internal queries and workflows.  
+- Currently participating in **Accelate with Meta Llama 2025**, exploring advanced use cases of Large Language Models (LLMs).  
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/leimportant)
