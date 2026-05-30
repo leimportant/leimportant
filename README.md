@@ -15,25 +15,36 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🌐 Featured Projects
 
+## 🤖 AI-Powered English Course App
+
 ### 📘 English Course App
 
-Offline-first English learning application built with Flutter Web.
+Interactive English learning platform built with Flutter Web and AI-assisted features.
 
 🔗 Live Demo: https://leimportant.github.io/english-course/
 
-Tech Stack:
+### ✨ AI Features
+
+* AI-assisted English conversation practice
+* Smart vocabulary recommendations
+* Grammar correction and sentence suggestions
+* Interactive chatbot learning experience
+* Personalized learning flow
+
+### 🛠 Tech Stack
 
 * Flutter
 * Dart
+* AI API Integration
 * GitHub Pages
 
-Features:
+### 🚀 Highlights
 
-* Responsive UI
-* Offline support
-* Web deployment
-* Interactive learning modules
-
+* Responsive Flutter Web application
+* Offline-first learning support
+* Modern and interactive UI
+* AI-enhanced user experience
+* Lightweight static deployment using GitHub Pages
 ---
 
 ## 🤖 AI & Chatbot Projects
