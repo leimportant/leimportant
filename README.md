@@ -1,40 +1,85 @@
 # Hi there, I'm Mohamad Soleh! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. 
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning.
 
-## About Me
+---
 
-- 🔭 I’m currently working on exciting projects in web development.
-- 🌱 I’m always learning new technologies and improving my skills.
-- 💬 Ask me about software development, coding practices, and any tech-related topics.
-- 📫 How to reach me: [Email](mailto:leimportant@gmail.com)
-- ⚡ Fun fact: I love solving complex problems and I’m also learning 1C Low-Code/No-Code for Developers in 1C:Enterprise.
+## 🚀 About Me
 
-## GitHub Stats
-## 📊 My GitHub Stats
+* 🔭 Currently working on web and Flutter development projects.
+* 🌱 Continuously learning new technologies and improving my software engineering skills.
+* 💬 Ask me about Laravel, Flutter, AI integration, and software development practices.
+* ⚡ Exploring AI-powered applications and low-code/no-code development with 1C:Enterprise.
+
+---
+
+## 🌐 Featured Projects
+
+### 📘 English Course App
+
+Offline-first English learning application built with Flutter Web.
+
+🔗 Live Demo: https://leimportant.github.io/english-course/
+
+Tech Stack:
+
+* Flutter
+* Dart
+* GitHub Pages
+
+Features:
+
+* Responsive UI
+* Offline support
+* Web deployment
+* Interactive learning modules
+
+---
+
+## 🤖 AI & Chatbot Projects
+
+### Konveksi Starter
+
+AI-powered solution developed for Accelate with Meta Llama 2025 competition.
+
+Tech Stack:
+
+* Laravel (PHP)
+* Node.js
+* npm
+* Composer
+
+Repository:
+https://github.com/leimportant/konveksi-starter
+
+### Aninka Fashion Chatbot
+
+AI-powered chatbot prototype for customer interaction and workflow automation.
+
+Tech Stack:
+
+* Laravel (PHP)
+* Node.js
+* AI API Integration
+
+Repository:
+https://github.com/leimportant/aninkafashion
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leimportant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leimportant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
-## 🤖 AI & Chatbot Projects
-- Built a **chatbot prototype** using LLM APIs to automate internal queries and workflows.  
-- Currently participating in **Accelate with Meta Llama 2025**, exploring advanced use cases of Large Language Models (LLMs).  
+---
 
-## 🤖 AI & Chatbot Projects
+## 📫 Connect with Me
 
-- [Konveksi Starter](https://github.com/leimportant/konveksi-starter)  
-  AI-powered solution developed for **Accelate with Meta Llama 2025** competition.  
-  Tech stack: Laravel (PHP), Node.js, npm, Composer.  
+* Email: [leimportant@gmail.com](mailto:leimportant@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/leimportant
 
-- [Aninka Fashion Chatbot](https://github.com/leimportant/aninkafashion)  
-  AI-powered chatbot prototype for customer interaction and workflow automation.  
-  Tech stack: Laravel (PHP), Node.js, AI API Integration.  
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/leimportant)
-
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+Thanks for visiting my profile! Feel free to explore my repositories and collaborate on exciting projects 🚀
